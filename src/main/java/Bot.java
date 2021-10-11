@@ -127,11 +127,11 @@ public class Bot extends TelegramLongPollingBot {
     }
 
     public String getBotUsername() {
-        return "CvTelegramBot";
+        return "name";
     }
 
     public String getBotToken() {
-        return "1935333226:AAERM4ec96bNCu018QPvsmZmUIOf0uRMPWI";
+        return "token";
     }
 
 
